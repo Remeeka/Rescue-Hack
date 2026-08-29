@@ -100,8 +100,20 @@ RescueLink supports reports in:
 
 The original report is preserved while AI helps structure the information.
 
-## How It Works
+<img width="1498" height="728" alt="image" src="https://github.com/user-attachments/assets/1665abc9-219c-45d8-bf79-c50885d9c40e" />
+<img width="1161" height="712" alt="image" src="https://github.com/user-attachments/assets/4d016550-2d52-4171-b8e3-f1a599377ac0" />
+<img width="1044" height="729" alt="image" src="https://github.com/user-attachments/assets/8c0fa611-bb4e-4328-b4c6-bd21962fde1e" />
+<img width="1152" height="711" alt="image" src="https://github.com/user-attachments/assets/16a64f02-98c7-425d-89bf-6a8e48c431d6" />
+<img width="1041" height="473" alt="image" src="https://github.com/user-attachments/assets/8fe45ec3-36ca-42fe-9913-a48eb8bff7ff" />
+<img width="1018" height="499" alt="image" src="https://github.com/user-attachments/assets/9533c603-e2a2-4663-92c1-fa163b2d5663" />
+<img width="1070" height="611" alt="image" src="https://github.com/user-attachments/assets/51a036d8-9be9-4d4c-b374-f829d4855bd7" />
+<img width="1040" height="656" alt="image" src="https://github.com/user-attachments/assets/31975b70-ddc5-48f0-a539-f50e05afa6d2" />
+<img width="1532" height="690" alt="image" src="https://github.com/user-attachments/assets/defe8aa7-8261-4b39-a679-61218e3bb8ec" />
+<img width="1046" height="675" alt="image" src="https://github.com/user-attachments/assets/9de14f0d-ca53-4fd0-86f8-6c5f248ff10a" />
 
+
+
+## How It Works
 ```text
 User / Witness
       |
@@ -131,13 +143,3 @@ SQLite Database
       |
       v
 Human Review / Volunteer Coordination
-<img width="1498" height="728" alt="image" src="https://github.com/user-attachments/assets/1665abc9-219c-45d8-bf79-c50885d9c40e" />
-<img width="1161" height="712" alt="image" src="https://github.com/user-attachments/assets/4d016550-2d52-4171-b8e3-f1a599377ac0" />
-<img width="1044" height="729" alt="image" src="https://github.com/user-attachments/assets/8c0fa611-bb4e-4328-b4c6-bd21962fde1e" />
-<img width="1152" height="711" alt="image" src="https://github.com/user-attachments/assets/16a64f02-98c7-425d-89bf-6a8e48c431d6" />
-<img width="1041" height="473" alt="image" src="https://github.com/user-attachments/assets/8fe45ec3-36ca-42fe-9913-a48eb8bff7ff" />
-<img width="1018" height="499" alt="image" src="https://github.com/user-attachments/assets/9533c603-e2a2-4663-92c1-fa163b2d5663" />
-<img width="1070" height="611" alt="image" src="https://github.com/user-attachments/assets/51a036d8-9be9-4d4c-b374-f829d4855bd7" />
-<img width="1040" height="656" alt="image" src="https://github.com/user-attachments/assets/31975b70-ddc5-48f0-a539-f50e05afa6d2" />
-<img width="1532" height="690" alt="image" src="https://github.com/user-attachments/assets/defe8aa7-8261-4b39-a679-61218e3bb8ec" />
-![Uploading image.png…]()
